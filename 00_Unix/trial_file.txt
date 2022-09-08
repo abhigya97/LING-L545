@@ -1,0 +1,8 @@
+patch
+pitch
+cat
+bat
+people
+person
+sport
+perimeter
