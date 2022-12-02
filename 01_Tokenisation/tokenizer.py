@@ -26,14 +26,14 @@ def tokenise(line, abbr):
 def tokenize_and_print(i, line, abbr):
     form = tokenise(line, abbr)
     df = pd.DataFrame({'Form' : form})
-    df['LEMMA'] = ''
-    df['UPOS'] = ''
-    df['XPOS'] = ''
-    df['FEATS'] = ''
-    df['HEAD'] = ''
-    df['DEPREL'] = ''
-    df['DEPS'] = ''
-    df['MISC'] = ''
+    df['LEMMA'] = '-'
+    df['UPOS'] = '-'
+    df['XPOS'] = '-'
+    df['FEATS'] = '-'
+    df['HEAD'] = '-'
+    df['DEPREL'] = '-'
+    df['DEPS'] = '-'
+    df['MISC'] = '-'
     print('# sent_id = ', i)
     print('# text = ', line)
     print(df)    
