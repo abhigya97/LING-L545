@@ -1,0 +1,370 @@
+# sent_id =  1
+# text =  L'aragonés ("idioma aragonés" u "luenga aragonesa") ye un idioma romance, luenga propia d'Aragón, parlato por bellas 25.556 personas sobretot en as comarcas pirinencas y prepirinencas d'o norte d'Aragón. 
+
+             Form LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+0      L'aragonés                                            
+1               (                                            
+2         "idioma                                            
+3       aragonés"                                            
+4               u                                            
+5         "luenga                                            
+6      aragonesa"                                            
+7               )                                            
+8              ye                                            
+9              un                                            
+10         idioma                                            
+11        romance                                            
+12              ,                                            
+13         luenga                                            
+14         propia                                            
+15       d'Aragón                                            
+16              ,                                            
+17        parlato                                            
+18            por                                            
+19         bellas                                            
+20         25.556                                            
+21       personas                                            
+22       sobretot                                            
+23             en                                            
+24             as                                            
+25       comarcas                                            
+26     pirinencas                                            
+27              y                                            
+28  prepirinencas                                            
+29            d'o                                            
+30          norte                                            
+31     d'Aragón .                                            
+32             \n                                            
+# sent_id =  2
+# text =  En as atras comarcas aragonesas a on que se charró l'idioma, hue o substrato y influencia de l'aragonés ye encara perceptible en o castellano que se i fabla, más que más en os aragonesismos lexicos.
+
+             Form LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+0              En                                            
+1              as                                            
+2           atras                                            
+3        comarcas                                            
+4      aragonesas                                            
+5               a                                            
+6              on                                            
+7             que                                            
+8              se                                            
+9          charró                                            
+10       l'idioma                                            
+11              ,                                            
+12            hue                                            
+13              o                                            
+14      substrato                                            
+15              y                                            
+16     influencia                                            
+17             de                                            
+18     l'aragonés                                            
+19             ye                                            
+20         encara                                            
+21    perceptible                                            
+22             en                                            
+23              o                                            
+24     castellano                                            
+25            que                                            
+26             se                                            
+27              i                                            
+28          fabla                                            
+29              ,                                            
+30            más                                            
+31            que                                            
+32            más                                            
+33             en                                            
+34             os                                            
+35  aragonesismos                                            
+36     lexicos.\n                                            
+# sent_id =  3
+# text =  Denominación.
+
+              Form LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+0  Denominación.\n                                            
+# sent_id =  4
+# text =  A denominación formal mes común d'a luenga ye aragonés, nombre con que ye conoixita localment, historicament y internacional. 
+
+               Form LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+0                 A                                            
+1      denominación                                            
+2            formal                                            
+3               mes                                            
+4             común                                            
+5               d'a                                            
+6            luenga                                            
+7                ye                                            
+8          aragonés                                            
+9                 ,                                            
+10           nombre                                            
+11              con                                            
+12              que                                            
+13               ye                                            
+14        conoixita                                            
+15        localment                                            
+16                ,                                            
+17    historicament                                            
+18                y                                            
+19  internacional .                                            
+20               \n                                            
+# sent_id =  5
+# text =  A tradición filolochica fa uso igualment d'o compuesto navarro-aragonés u navarroaragonés ta referir-se, más que más, a lo estadio medieval d'o idioma, a consonant con l'uso d'atros compuestos lingüistico-cheograficos ta atros romances peninsulars como lo galaico-portugués u l'astur-leyonés. 
+
+                        Form LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+0                          A                                            
+1                  tradición                                            
+2                filolochica                                            
+3                         fa                                            
+4                        uso                                            
+5                  igualment                                            
+6                        d'o                                            
+7                  compuesto                                            
+8           navarro-aragonés                                            
+9                          u                                            
+10           navarroaragonés                                            
+11                        ta                                            
+12                referir-se                                            
+13                         ,                                            
+14                       más                                            
+15                       que                                            
+16                       más                                            
+17                         ,                                            
+18                         a                                            
+19                        lo                                            
+20                   estadio                                            
+21                  medieval                                            
+22                       d'o                                            
+23                    idioma                                            
+24                         ,                                            
+25                         a                                            
+26                 consonant                                            
+27                       con                                            
+28                     l'uso                                            
+29                   d'atros                                            
+30                compuestos                                            
+31  lingüistico-cheograficos                                            
+32                        ta                                            
+33                     atros                                            
+34                  romances                                            
+35               peninsulars                                            
+36                      como                                            
+37                        lo                                            
+38         galaico-portugués                                            
+39                         u                                            
+40         l'astur-leyonés .                                            
+41                        \n                                            
+# sent_id =  6
+# text =  Popularment, a falta historica de claros referents lingüisticos y una diglosia multisecular con o castellano accentuoron as diferiencias dialectals de l'idioma, afavorindo una baixa conscienciación unitaria entre os parladors d'a luenga, y fendo que aquells que millor mantenioron o dialecto propio lo denominasen con un nombre local (ansotano, cheso, belsetán, chistabín, etc.) Fabla ye una altra denominación informal, considerata alternativa per beluns, popularizata en a segunda metat d'o s. 
+
+           Form LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+0   Popularment                                            
+1             ,                                            
+2             a                                            
+3         falta                                            
+4     historica                                            
+..          ...   ...  ...  ...   ...  ...    ...  ...  ...
+76      segunda                                            
+77        metat                                            
+78          d'o                                            
+79          s .                                            
+80           \n                                            
+
+[81 rows x 9 columns]
+# sent_id =  7
+# text =  XX. 
+
+   Form LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+0  XX .                                            
+1    \n                                            
+# sent_id =  8
+# text =  En realidat ye un alcurzamiento d'a expresión "fabla aragonesa", inspirata en a de "fabla chesa", usata en cheso.
+
+             Form LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+0              En                                            
+1        realidat                                            
+2              ye                                            
+3              un                                            
+4   alcurzamiento                                            
+5             d'a                                            
+6       expresión                                            
+7          "fabla                                            
+8      aragonesa"                                            
+9               ,                                            
+10      inspirata                                            
+11             en                                            
+12              a                                            
+13             de                                            
+14         "fabla                                            
+15         chesa"                                            
+16              ,                                            
+17          usata                                            
+18             en                                            
+19       cheso.\n                                            
+# sent_id =  9
+# text =  Situación.
+
+           Form LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+0  Situación.\n                                            
+# sent_id =  10
+# text =  L'aragonés ye encara parlato como luenga materna en o suyo nuclio orichinal, as montanyas aragonesas d'os Pirineus, en as comarcas d'o Viello Aragón (Chacetania y Alto Galligo), Semontano, Sobrarbe y Ribagorza. 
+
+           Form LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+0    L'aragonés                                            
+1            ye                                            
+2        encara                                            
+3       parlato                                            
+4          como                                            
+5        luenga                                            
+6       materna                                            
+7            en                                            
+8             o                                            
+9          suyo                                            
+10       nuclio                                            
+11    orichinal                                            
+12            ,                                            
+13           as                                            
+14    montanyas                                            
+15   aragonesas                                            
+16         d'os                                            
+17     Pirineus                                            
+18            ,                                            
+19           en                                            
+20           as                                            
+21     comarcas                                            
+22          d'o                                            
+23       Viello                                            
+24       Aragón                                            
+25            (                                            
+26   Chacetania                                            
+27            y                                            
+28         Alto                                            
+29      Galligo                                            
+30            )                                            
+31            ,                                            
+32    Semontano                                            
+33            ,                                            
+34     Sobrarbe                                            
+35            y                                            
+36  Ribagorza .                                            
+37           \n                                            
+# sent_id =  11
+# text =  As ciudatz y villas prencipals an encara puede trobar-se fabladors patrimonials de l'aragonés son: Uesca, Graus, Monzón, Balbastro, Fonz, Echo, Estadilla, Benás, Samianigo, Pandicosa, Chaca, Plan, Ansó, Ayerbe, Broto, Lo Grau. 
+
+            Form LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+0             As                                            
+1        ciudatz                                            
+2              y                                            
+3         villas                                            
+4     prencipals                                            
+5             an                                            
+6         encara                                            
+7          puede                                            
+8      trobar-se                                            
+9      fabladors                                            
+10  patrimonials                                            
+11            de                                            
+12    l'aragonés                                            
+13           son                                            
+14             :                                            
+15         Uesca                                            
+16             ,                                            
+17         Graus                                            
+18             ,                                            
+19        Monzón                                            
+20             ,                                            
+21     Balbastro                                            
+22             ,                                            
+23          Fonz                                            
+24             ,                                            
+25          Echo                                            
+26             ,                                            
+27     Estadilla                                            
+28             ,                                            
+29         Benás                                            
+30             ,                                            
+31     Samianigo                                            
+32             ,                                            
+33     Pandicosa                                            
+34             ,                                            
+35         Chaca                                            
+36             ,                                            
+37          Plan                                            
+38             ,                                            
+39          Ansó                                            
+40             ,                                            
+41        Ayerbe                                            
+42             ,                                            
+43         Broto                                            
+44             ,                                            
+45            Lo                                            
+46        Grau .                                            
+47            \n                                            
+# sent_id =  12
+# text =  Altros aragoneses tamién aprenden aragonés como una segunda luenga en puestos como Uesca, Zaragoza, Exeya, y Teruel. 
+
+          Form LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+0       Altros                                            
+1   aragoneses                                            
+2       tamién                                            
+3     aprenden                                            
+4     aragonés                                            
+5         como                                            
+6          una                                            
+7      segunda                                            
+8       luenga                                            
+9           en                                            
+10     puestos                                            
+11        como                                            
+12       Uesca                                            
+13           ,                                            
+14    Zaragoza                                            
+15           ,                                            
+16       Exeya                                            
+17           ,                                            
+18           y                                            
+19    Teruel .                                            
+20          \n                                            
+# sent_id =  13
+# text =  Seguntes os datos d'o Censo de 1981, a on se incluyoron preguntas relativas a l'uso d'as luengas propias, a suma de fabladors no blincaba d'os 30.000, fendo que l'aragonés siga una d'as luengas europeas con más gran periglo d'extinción.
+             Form LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+0        Seguntes                                            
+1              os                                            
+2           datos                                            
+3             d'o                                            
+4           Censo                                            
+5              de                                            
+6            1981                                            
+7               ,                                            
+8               a                                            
+9              on                                            
+10             se                                            
+11     incluyoron                                            
+12      preguntas                                            
+13      relativas                                            
+14              a                                            
+15          l'uso                                            
+16           d'as                                            
+17        luengas                                            
+18        propias                                            
+19              ,                                            
+20              a                                            
+21           suma                                            
+22             de                                            
+23      fabladors                                            
+24             no                                            
+25       blincaba                                            
+26           d'os                                            
+27         30.000                                            
+28              ,                                            
+29          fendo                                            
+30            que                                            
+31     l'aragonés                                            
+32           siga                                            
+33            una                                            
+34           d'as                                            
+35        luengas                                            
+36       europeas                                            
+37            con                                            
+38            más                                            
+39           gran                                            
+40        periglo                                            
+41  d'extinción .       
