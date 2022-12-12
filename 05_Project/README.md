@@ -1,3 +1,3 @@
 # Project
 
-Morphological Analysis of Compound Words in Hindi Language
+Constructing Knowledge Graph from text using Dependency Parsing
